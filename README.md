@@ -4,7 +4,12 @@
 ![image](https://user-images.githubusercontent.com/47103479/131250638-70925805-2c20-4fc3-b23c-6c29592bd753.png)
 
 ## Tableau korea
-### 1
+### dashboard_1
 ![대시보드 ](https://user-images.githubusercontent.com/47103479/131255011-93c9632b-6614-43c4-802b-af4ebc3dbbb0.png)
-### 2
+
+### dashboard_2
 ![대시보드 2일차](https://user-images.githubusercontent.com/47103479/131349687-e9d47e81-9215-4793-9bdd-2c26d2d2ec01.png)
+
+### dashboard_3
+![day3_대시보드 작업 이용](https://user-images.githubusercontent.com/47103479/131520414-5bdcac7f-bb82-4290-9596-55aa2eae033a.png)
+![image](https://user-images.githubusercontent.com/47103479/131520389-8d7d4d84-44a7-4c7f-b514-56796b29ff37.png)
