@@ -13,3 +13,6 @@
 ### dashboard_3
 ![day3_대시보드 작업 이용](https://user-images.githubusercontent.com/47103479/131520414-5bdcac7f-bb82-4290-9596-55aa2eae033a.png)
 ![image](https://user-images.githubusercontent.com/47103479/131520389-8d7d4d84-44a7-4c7f-b514-56796b29ff37.png)
+
+### dashboard_4
+![day4_대시보드 1](https://user-images.githubusercontent.com/47103479/131689745-699eee06-d021-430b-b175-4a5b33e90a78.png)
