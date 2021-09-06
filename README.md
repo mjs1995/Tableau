@@ -21,3 +21,4 @@
 ![day5_대시보드 1](https://user-images.githubusercontent.com/47103479/131869291-03631029-bd1a-40e7-845f-6a1d80321119.png)
 
 ### daahboard_6
+![day6_대시보드](https://user-images.githubusercontent.com/47103479/132237267-8291669c-a05e-4266-bc1b-97fe26d2e31c.png)
