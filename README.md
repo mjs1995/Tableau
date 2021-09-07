@@ -22,3 +22,6 @@
 
 ### daahboard_6
 ![day6_대시보드](https://user-images.githubusercontent.com/47103479/132237267-8291669c-a05e-4266-bc1b-97fe26d2e31c.png)
+
+### dashboard_7
+![day_7_대시보드 1](https://user-images.githubusercontent.com/47103479/132367680-ab93f578-ac5b-4c44-aa44-92deb3e60f2b.png)
