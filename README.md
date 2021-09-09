@@ -25,3 +25,14 @@
 
 ### dashboard_7
 ![day_7_대시보드 1](https://user-images.githubusercontent.com/47103479/132367680-ab93f578-ac5b-4c44-aa44-92deb3e60f2b.png)
+
+### dashboard_8
+![Set Action](https://user-images.githubusercontent.com/47103479/132529474-affe0518-41a1-4bcd-8283-77962e403668.png)
+![매개변수를 이용한 드릴 다운](https://user-images.githubusercontent.com/47103479/132529484-1f69a26e-0fd7-4e8b-9f20-39b87fd58614.png)
+
+### dashboard_9
+![대시보드 2](https://user-images.githubusercontent.com/47103479/132715447-662d4ee4-746a-46b0-aa27-228c1ccea7ed.png)
+
+# Tableau 웹 서버 연결
+
+![image](https://user-images.githubusercontent.com/47103479/132715427-ffcb41b3-03e6-4c15-9c8d-6b4f082cdd8c.png)
