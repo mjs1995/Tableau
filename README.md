@@ -3,6 +3,9 @@
 ![image](https://user-images.githubusercontent.com/47103479/131249380-f362066d-52f3-4cb5-8787-428e8971e7b3.png)
 ![image](https://user-images.githubusercontent.com/47103479/131250638-70925805-2c20-4fc3-b23c-6c29592bd753.png)
 
+## Tableau 웹 서버 연결
+![image](https://user-images.githubusercontent.com/47103479/132715427-ffcb41b3-03e6-4c15-9c8d-6b4f082cdd8c.png)
+
 ## Tableau korea
 ### dashboard_1
 ![대시보드 ](https://user-images.githubusercontent.com/47103479/131255011-93c9632b-6614-43c4-802b-af4ebc3dbbb0.png)
@@ -33,6 +36,3 @@
 ### dashboard_9
 ![대시보드 2](https://user-images.githubusercontent.com/47103479/132715447-662d4ee4-746a-46b0-aa27-228c1ccea7ed.png)
 
-# Tableau 웹 서버 연결
-
-![image](https://user-images.githubusercontent.com/47103479/132715427-ffcb41b3-03e6-4c15-9c8d-6b4f082cdd8c.png)
