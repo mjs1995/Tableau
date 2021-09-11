@@ -36,3 +36,5 @@
 ### dashboard_9
 ![대시보드 2](https://user-images.githubusercontent.com/47103479/132715447-662d4ee4-746a-46b0-aa27-228c1ccea7ed.png)
 
+## Tableau Prep
+![image](https://user-images.githubusercontent.com/47103479/132946661-bb6e0e58-1be0-47e0-91d5-b5bb95ab26cb.png)
