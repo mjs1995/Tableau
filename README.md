@@ -1,4 +1,21 @@
 # Tableau
+## code
+- DATEPARSE ( 형식  ,  문자열  ) : “문자열” 데이터를 “날짜"로 변환 
+
+![image](https://user-images.githubusercontent.com/47103479/137509695-773591f5-6496-4630-a012-130b463847e1.png)
+
+- 필드 초록색 : 기본 속성이 연속형 <-> 파란색 : 기본 속성이 불연속형
+
+![image](https://user-images.githubusercontent.com/47103479/137509834-27bbca3b-916e-49e0-b646-72844f387ce3.png)
+
+- DATETRUNC ( date_part  ,  날짜 , [주 시작] ) :  date_part에 해당되는 날짜 부분까지 잘라내고, 새로운 날짜로 반환
+  - DATETURNC 함수는 날짜를 자르고,나머지 부분을 최소값으로 변환하여 연속형 데이터로 활용
+- DATEPART (date_part, 날짜 , [주 시작]) :  date_part에 해당되는 날짜 부분의 값을 정수로 반환
+  - 날짜의 일부분을 숫자로 분리하여 불연속형 데이터로 활용
+- ![image](https://user-images.githubusercontent.com/47103479/137510123-aa41709c-706d-4016-8a25-dff566a9ea5e.png)
+
+
+
 ## Intro
 ![image](https://user-images.githubusercontent.com/47103479/131249380-f362066d-52f3-4cb5-8787-428e8971e7b3.png)
 ![image](https://user-images.githubusercontent.com/47103479/131250638-70925805-2c20-4fc3-b23c-6c29592bd753.png)
