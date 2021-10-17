@@ -14,6 +14,8 @@
   - 날짜의 일부분을 숫자로 분리하여 불연속형 데이터로 활용
 - ![image](https://user-images.githubusercontent.com/47103479/137510123-aa41709c-706d-4016-8a25-dff566a9ea5e.png)
 
+- ZN(expression): null이 아니면 식을 반환하고, null이면 0을 반환합니다.
+
 
 
 ## Intro
@@ -55,3 +57,11 @@
 
 ## Tableau Prep
 ![image](https://user-images.githubusercontent.com/47103479/132946661-bb6e0e58-1be0-47e0-91d5-b5bb95ab26cb.png)
+
+## Tableau bootcamp
+![image](https://user-images.githubusercontent.com/47103479/137617031-9b696865-004e-46f6-9bed-40687e4bf193.png)
+![image](https://user-images.githubusercontent.com/47103479/137617033-6d740a20-8f17-4241-b27f-ff0eac9ea77a.png)
+![image](https://user-images.githubusercontent.com/47103479/137617036-e0549ef9-dab1-4a06-94ed-8385d41aae69.png)
+![image](https://user-images.githubusercontent.com/47103479/137617037-188076fc-6b0c-41c8-a93c-c6128d139a98.png)
+
+
