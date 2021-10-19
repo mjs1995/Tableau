@@ -1,4 +1,7 @@
 # Tableau
+## 작업 순서
+![image](https://user-images.githubusercontent.com/47103479/137916689-200746c7-bd68-4183-88e8-f9d0580c356f.png)
+
 ## code
 - DATEPARSE ( 형식  ,  문자열  ) : “문자열” 데이터를 “날짜"로 변환 
 
@@ -15,7 +18,10 @@
 - ![image](https://user-images.githubusercontent.com/47103479/137510123-aa41709c-706d-4016-8a25-dff566a9ea5e.png)
 
 - ZN(expression): null이 아니면 식을 반환하고, null이면 0을 반환합니다.
-
+- 세부 수준 계산식 
+  - FIXED : 시각화의 세부 수준과 관계 없이 기술한 차원을 고정하여 집계 
+  - EXCLUDE : 시각화에 포함된 차원 중 세부 수준 계산식에 기술한 차원을 제외하고 집계
+  - INCLUDE : 시각화에 포함된 차원과 세부 수준 계산식에 기술한 차원을 포함하여 집계
 
 
 ## Intro
@@ -63,5 +69,6 @@
 ![image](https://user-images.githubusercontent.com/47103479/137617033-6d740a20-8f17-4241-b27f-ff0eac9ea77a.png)
 ![image](https://user-images.githubusercontent.com/47103479/137617036-e0549ef9-dab1-4a06-94ed-8385d41aae69.png)
 ![image](https://user-images.githubusercontent.com/47103479/137617037-188076fc-6b0c-41c8-a93c-c6128d139a98.png)
+![image](https://user-images.githubusercontent.com/47103479/137925853-30b8f1ec-301d-4579-bee9-89b29d325461.png)
 
 
