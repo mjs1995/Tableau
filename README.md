@@ -71,4 +71,5 @@
 ![image](https://user-images.githubusercontent.com/47103479/137617037-188076fc-6b0c-41c8-a93c-c6128d139a98.png)
 ![image](https://user-images.githubusercontent.com/47103479/137925853-30b8f1ec-301d-4579-bee9-89b29d325461.png)
 ![대시보드 2](https://user-images.githubusercontent.com/47103479/138663031-077f370e-ddc1-4247-afaa-89feba305e9b.png)
+![대시보드 3](https://user-images.githubusercontent.com/47103479/139082697-47463fca-519e-4901-b579-51ead9af990a.png)
 
