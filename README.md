@@ -73,3 +73,6 @@
 ![대시보드 2](https://user-images.githubusercontent.com/47103479/138663031-077f370e-ddc1-4247-afaa-89feba305e9b.png)
 ![대시보드 3](https://user-images.githubusercontent.com/47103479/139082697-47463fca-519e-4901-b579-51ead9af990a.png)
 ![서울시 공원](https://user-images.githubusercontent.com/47103479/139083286-aed2cdc5-f233-4bb2-acad-210272a2fe3f.png)
+![전체 vs 지역별 순위](https://user-images.githubusercontent.com/47103479/139275560-989b148c-7f54-4ae8-909d-9373b5f94683.png)
+![장바구니   교차판매 분석](https://user-images.githubusercontent.com/47103479/139275572-32a2a12b-a1f5-4610-b5ea-b4a82307a33c.png)
+
