@@ -18,7 +18,8 @@
 - ![image](https://user-images.githubusercontent.com/47103479/137510123-aa41709c-706d-4016-8a25-dff566a9ea5e.png)
 
 - ZN(expression): null이 아니면 식을 반환하고, null이면 0을 반환합니다.
-- 세부 수준 계산식 
+- ![8 Q](https://user-images.githubusercontent.com/47103479/139518148-d999f407-939e-4193-ab74-945ae4194c82.png)
+세부 수준 계산식 
   - FIXED : 시각화의 세부 수준과 관계 없이 기술한 차원을 고정하여 집계 
   - EXCLUDE : 시각화에 포함된 차원 중 세부 수준 계산식에 기술한 차원을 제외하고 집계
   - INCLUDE : 시각화에 포함된 차원과 세부 수준 계산식에 기술한 차원을 포함하여 집계
@@ -75,4 +76,5 @@
 ![서울시 공원](https://user-images.githubusercontent.com/47103479/139083286-aed2cdc5-f233-4bb2-acad-210272a2fe3f.png)
 ![전체 vs 지역별 순위](https://user-images.githubusercontent.com/47103479/139275560-989b148c-7f54-4ae8-909d-9373b5f94683.png)
 ![장바구니   교차판매 분석](https://user-images.githubusercontent.com/47103479/139275572-32a2a12b-a1f5-4610-b5ea-b4a82307a33c.png)
+![8 Q](https://user-images.githubusercontent.com/47103479/139518160-f3b6ae20-a984-44e0-afda-39275499d7f7.png)
 
